@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ardhimaulidani.github.io/sitemap.xml
+Host: https://ardhimaulidani.github.io
