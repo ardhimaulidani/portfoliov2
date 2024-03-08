@@ -7,6 +7,7 @@ module.exports = {
       'Ardhika Maulidani is a electronics engineer who specializes in robotics and firmware.',
     siteUrl: 'https://ardhimaulidani.github.io/portfoliov2', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@ardhimaulidani',
   },
   pathPrefix: '/portfoliov2',
   plugins: [
