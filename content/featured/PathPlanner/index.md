@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Path Planner'
-cover: './rviz.png'
+cover: './astar.png'
 github: 'https://github.com/ardhimaulidani/Path-Planner'
 tech:
   - ROS
